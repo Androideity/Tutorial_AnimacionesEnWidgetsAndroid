@@ -1,0 +1,6 @@
+Ejemplo de cómo implementar animaciones a elementos de la interfaz en Android.
+
+- Trabajar con animaciones predefinidas en el SDK de Android.
+- Asignar una animación a un ViewFlipper.
+
+Ver tutorial: http://androideity.com/2011/12/17/animaciones-para-cambiar-entre-actividades/
